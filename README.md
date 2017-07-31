@@ -1,0 +1,2 @@
+# gbs
+Python Gobstones interpreter
